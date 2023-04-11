@@ -5,7 +5,7 @@ Babel==2.8.0
 bcrypt==3.2.0
 blinker==1.4
 cajarename==21.11.24
-certifi==2020.6.20
+certifi==2022.12.7
 chardet==4.0.0
 click==7.1.2
 cloud-init==23.1.1
