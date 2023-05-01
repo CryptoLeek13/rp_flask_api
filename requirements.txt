@@ -18,7 +18,7 @@ dbus-python==1.2.18
 distro==1.7.0
 distro-info===1.1build1
 ec2-hibinit-agent==1.0.0
-Flask==1.1.2
+Flask==2.3.2
 Flask-RESTful==0.3.8
 Flask-SQLAlchemy==2.4.3
 greenlet==1.1.2
